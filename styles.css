@@ -1,0 +1,15 @@
+.dashboard-container{
+    display: grid;
+  grid-template-columns:150px 4fr; 
+  grid-template-rows: auto 1fr;    
+    overflow: auto;
+}
+
+.sidebar{
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    gap: 10px;
+  
+}
