@@ -13,15 +13,6 @@ This is my solution to [The Odin Project - Admin Dashboard](https://www.theodinp
 
 A modern, responsive admin dashboard built with HTML5, CSS3, and Material Design Icons. This project demonstrates fundamental web development concepts including layout design, responsive styling, component-based UI structure, and professional UX principles.
 
-## 📋 Table of Contents
-
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Installation & Setup](#installation--setup)
-- [How to Run](#how-to-run)
----
-
 ## 🎯 Project Overview
 
 This Admin Dashboard is a comprehensive UI project from [The Odin Project](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard) that demonstrates professional dashboard design principles. The dashboard includes a responsive layout with:
