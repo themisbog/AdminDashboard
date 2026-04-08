@@ -5,6 +5,12 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![The Odin Project](https://img.shields.io/badge/The%20Odin%20Project-Community-orange)](https://www.theodinproject.com)
 
+This is my solution to [The Odin Project - Admin Dashboard](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard) lesson.
+
+**Project Source**: The Odin Project  
+**Course Path**: Full Stack JavaScript  
+**Difficulty**: Intermediate HTML and CSS
+
 A modern, responsive admin dashboard built with HTML5, CSS3, and Material Design Icons. This project demonstrates fundamental web development concepts including layout design, responsive styling, component-based UI structure, and professional UX principles.
 
 ## 📋 Table of Contents
