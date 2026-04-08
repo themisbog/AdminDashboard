@@ -14,19 +14,6 @@ A modern, responsive admin dashboard built with HTML5, CSS3, and Material Design
 - [Project Structure](#project-structure)
 - [Installation & Setup](#installation--setup)
 - [How to Run](#how-to-run)
-- [File Guide](#file-guide)
-- [Technologies Used](#technologies-used)
-- [What I Learned](#what-i-learned)
-- [Skills Developed](#skills-developed)
-- [CSS Architecture](#css-architecture)
-- [Customization Guide](#customization-guide)
-- [Responsive Design](#responsive-design)
-- [Troubleshooting](#troubleshooting)
-- [Future Enhancements](#future-enhancements)
-- [Learning Resources](#learning-resources)
-- [Credits & Acknowledgements](#credits--acknowledgements)
-- [License](#license)
-
 ---
 
 ## 🎯 Project Overview
