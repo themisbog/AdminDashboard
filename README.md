@@ -33,6 +33,8 @@ This Admin Dashboard is a comprehensive UI project from [The Odin Project](https
 
 The dashboard serves as a practical learning tool to understand how professional web applications organize complex UI components while maintaining clean, maintainable code.
 
+📸 Screenshot
+![alt text](image.png)
 ### Project Goals
 
 ✅ Learn advanced HTML5 semantic markup  
